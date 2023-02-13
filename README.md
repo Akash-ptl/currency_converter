@@ -7,10 +7,8 @@ A new Flutter project.
   <tr>
     <td><img src="images/1676259371098_100.PNG" </td>
     <td><img src="images/1676259367490_100.PNG" </td>
-  
   </tr>
- <tr>
-   
+  <tr>
     <td><img src="images/ezgif-5-2f3f09dfa6.gif" </td>
   </tr>
  </table>
